@@ -1,6 +1,6 @@
 # Cosmetix Glow BD — JMeter Performance Test
 
-Performance and load testing performed using Apache JMeter on the Cosmetix Glow BD web application.
+Performance and load testing performed using Apache JMeter on the Cosmetix Glow BD web applicatio
 
 ## Application Under Test
 
