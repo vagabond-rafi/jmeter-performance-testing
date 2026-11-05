@@ -44,7 +44,7 @@ Performance and load testing performed using Apache JMeter on the Cosmetix Glow 
 
 **Overall Status: PASS WITH PERFORMANCE CONCERNS**
 
-The application successfully processed the tested workload, but the response-time results indicate potential performance optimization are
+The application successfully processed the tested workload, but the response-time results indicate potential performance optimization area
 
 Further testing is recommended with different concurrency levels, ramp-up patterns, P95/P99 response-time measurements, and server-resource monitoring.
 
