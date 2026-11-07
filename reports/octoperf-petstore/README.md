@@ -1,4 +1,4 @@
-# OctoPerf PetStore — JMeter Performance T
+# OctoPerf PetStore — JMeter Performance Te
 
 Load and performance testing performed using Apache JMeter on the OctoPerf PetStore web application.
 
